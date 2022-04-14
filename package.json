@@ -1,0 +1,23 @@
+{
+  "name": "lm-rocketflix",
+  "version": "1.0.0",
+  "description": "<h1 align=\"center\">\r   Rocketflix\r </h1>",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mancinilucas/lm-rocketflix.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mancinilucas/lm-rocketflix/issues"
+  },
+  "homepage": "https://github.com/mancinilucas/lm-rocketflix#readme",
+  "dependencies": {
+    "vite": "^2.9.4"
+  }
+}
