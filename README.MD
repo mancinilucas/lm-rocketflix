@@ -13,7 +13,7 @@
 <br>
 
 <p align="center">
-  <img alt="Rocketflix" src="./public/screenshot.png" width="100%">
+  <img alt="Rocketflix" src="./assets/screenshot.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
