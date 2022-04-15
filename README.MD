@@ -31,4 +31,4 @@ Projeto desenvolvido como prática de consumo de uma API terceira (TheMovieDB) d
 
 ## 🔖 Deploy
 
-## [Rocketflix](https://lmrocketflix.netlify.app/)
+## [Rocketflix](https://mancinilucas.github.io/lm-rocketflix/)
